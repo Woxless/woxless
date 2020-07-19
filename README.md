@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello
+- 📫 How to reach me: woxless@yandex.ru
+- 🌱 I’m currently learning React.js
+- 🔭 I’m currently working on Wallhunter
 
 <!--
 **Woxless/woxless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
