@@ -1,7 +1,7 @@
 ### I'm watching to you 💬
 Hello my dear friends. My name is Vladimir Adam and I'm a fastest cowboy on all Wild West.
-For all questions: woxless@yandex.ru
-My website portfolio: <in_progress>
+- For all questions: woxless@yandex.ru
+- My website portfolio: <in_progress>
 
 <!--
 **Woxless/woxless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
